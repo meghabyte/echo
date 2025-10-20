@@ -1,22 +1,6 @@
 # Echo: A Multi-Agent AI System for Patient-Centered Pharmacovigilance
-## Supplementary Materials
 
-This repository contains the complete implementation  for **Echo**, a multi-agent AI system that transforms patient narratives from Reddit into structured drug safety intelligence. Echo leverages four specialized language model agents to discover, validate, and contextualize novel drug-symptom associations from online health communities.
-
-
-### Key Contributions 
-
-#### Technical Innovation
-- **First multi-agent pharmacovigilance system** using large language models
-- **Systematic confounder identification** beyond simple drug-reaction associations
-- **Automated hypothesis generation** with biomedical literature synthesis
-- **Real-time patient voice integration** into safety surveillance
-
-#### Clinical Impact Potential
-- **Early signal detection**: Historical validation shows months-to-years lead time
-- **Underreported ADR identification**: Quality-of-life issues missed by traditional systems
-- **Mechanistic insights**: Actionable hypotheses for clinical investigation
-- **Scalable methodology**: Adaptable to other therapeutic areas and data sources
+This repository contains source code for the implementation of **Echo**, a multi-agent AI system that transforms patient narratives from Reddit into structured drug safety intelligence. Echo leverages four specialized language model agents to discover, validate, and contextualize novel drug-symptom associations from online health communities. Echo was accepted at the Agents4Science 2025 conference (https://openreview.net/pdf?id=4nrWtE6oZ9), which studies the impact of significant language model usage during the research process. Please email megha at cs.stanford.edu with any questions!  
 
 ### 📋 System Overview
 
@@ -38,14 +22,6 @@ src/
 ├── echo.py           # Echo interface
 ```
 
-
-## 🏥 Clinical Translation
-
-### Healthcare Integration
-- **EHR Compatibility**: Structured output compatible with electronic health records
-- **Clinical Decision Support**: Integration with pharmacovigilance workflows
-- **Regulatory Reporting**: Automated signal generation for FDA submission
-- **Patient Safety**: Real-time monitoring of emerging adverse events
 
 ### Future Directions
 - **Multi-language Support**: Expansion to global patient communities
