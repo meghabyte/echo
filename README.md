@@ -1,5 +1,7 @@
 # Echo: A Multi-Agent AI System for Patient-Centered Pharmacovigilance
 
+**Blog Post**: https://meghabyte.github.io/blog/research/aiscience-claude-25.html 
+
 This repository contains source code for the implementation of **Echo**, a multi-agent AI system that transforms patient narratives from Reddit into structured drug safety intelligence. Echo leverages four specialized language model agents to discover, validate, and contextualize novel drug-symptom associations from online health communities. Echo was accepted at the Agents4Science 2025 conference (https://openreview.net/pdf?id=4nrWtE6oZ9), which studies the impact of significant language model usage during the research process. Please email megha at cs.stanford.edu with any questions!  
 
 ### 📋 System Overview
